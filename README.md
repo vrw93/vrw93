@@ -14,4 +14,6 @@ I Am A Unity Developer And Now Im Try To Make Game And Modding Some Game
 
 ![Stats](https://github-readme-stats-git-master-vrws-projects.vercel.app/api?username=vrw93&show_icons=true&theme=tokyonight)
 
-## STATUS
+## Status
+
+Currently Learning About Python And C#
