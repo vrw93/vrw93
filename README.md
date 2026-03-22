@@ -1,19 +1,95 @@
-## Hi there 👋
-I Am A Unity Developer And Now Im Try To Make Game And Modding Some Game
+<h1 align="center">Hi 👋 I'm VRW</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+VRW;Unity+Game+Developer;Building+Games+%F0%9F%8E%AE;Learning+C%23+%26+Python">
+</p>
+<p align="center">
+🎮 Unity Developer passionate about building games and exploring game modding.
+</p>
 
 ---
-## Tech Stack
+## ⚙️ Tech Stack
 
-![Unity](https://img.shields.io/badge/Engine-Unity-black?logo=unity)
-![C#](https://img.shields.io/badge/Language-C%23-green?logo=dotnet)
-![Python](https://img.shields.io/badge/Language-Python-blue?logo=python&logoColor=white)
-![Vscode](https://img.shields.io/badge/Editor-VsCode-blue)
-![VS](https://img.shields.io/badge/IDE-VisualStudio-purple)
+<p align="center">
+  <img src="https://img.shields.io/badge/Engine-Unity-black?logo=unity">
+  <img src="https://img.shields.io/badge/Language-C%23-green?logo=dotnet">
+  <img src="https://img.shields.io/badge/Language-Python-blue?logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Editor-VSCode-blue">
+  <img src="https://img.shields.io/badge/IDE-VisualStudio-purple">
+</p>
+
+---
+## 📊 GitHub Stats
+<p align="center">
+  
+  ![Stats](https://github-readme-stats-git-master-vrws-projects.vercel.app/api?username=vrw93&show_icons=true&theme=tokyonight)
+  
+</p>
 
 ---
 
-![Stats](https://github-readme-stats-git-master-vrws-projects.vercel.app/api?username=vrw93&show_icons=true&theme=tokyonight)
+## 🚀 Projects
 
-## Status
+### 📦 Inventory App
+<p>
+A desktop application built to manage and organize item borrowing efficiently.
+</p>
 
-Currently Learning About Python And C#
+- 🔧 Tech: Python / Qt
+- 🎯 Focus: UI & data management
+- 🔗 https://github.com/vrw93/Inventory-App
+
+---
+
+### 🌐 VTab (Custom New Tab Extension) [Maintenance Mode]
+<p>
+A customizable Chrome new tab extension designed to improve productivity and personalization.
+</p>
+
+- 🔧 Tech: JavaScript, HTML, CSS
+- 🎯 Focus: UI customization & browser extension
+- 🔗 https://github.com/vrw93/Vtab
+
+---
+
+### 🔧 More Poster (My Winter Car Mod)
+<p>
+A mod that enhances in-game customization by allowing players to add custom posters anywhere, anytime.
+</p>
+
+- 🔧 Tech: C#, Unity, MSC Loader (for My Winter Car)
+- 🎯 Focus: Content extension & modding
+- 🔗 https://github.com/vrw93/More-Poster
+
+---
+
+### 🧩 VrwPack (My Winter Car Mod Pack)
+<p>
+A collection of mods such as unlimited fuel, flashlight anywhere, and debugging tools.
+</p>
+
+- 🔧 Tech: C#, Unity, MSC Loader (for My Winter Car)
+- 🎯 Focus: Game enhancement
+- 🔗 https://github.com/vrw93/VrwPack-My-Winter-Car-Mod
+
+---
+
+## 📺 YouTube
+
+<p align="center">
+  <a href="https://www.youtube.com/@vrwtutor">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&style=for-the-badge">
+  </a>
+</p>
+
+---
+
+## 🚀 Currently Learning
+- Python 🐍
+- C# with Unity 🎮
+- Game Development Concepts
+
+---
+## 🎯 Focus
+- 🎮 Game Development (Unity)
+- 🧠 Learning System Design (basic)
+- 🔧 Modding & Experimentation
