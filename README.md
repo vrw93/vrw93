@@ -29,6 +29,13 @@
 
 ## 🚀 Projects
 
+---
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&width=600&lines=Inventory+App;VTab;More+Poster(MWC);VrwPack(MWC)">
+</p>
+
+---
+
 ### 📦 Inventory App
 <p>
 A desktop application built to manage and organize item borrowing efficiently.
