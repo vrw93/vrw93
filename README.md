@@ -80,11 +80,14 @@ A collection of mods such as unlimited fuel, flashlight anywhere, and debugging 
 
 ---
 
-## 📺 YouTube
+## 📺 Contact
 
 <p align="center">
   <a href="https://www.youtube.com/@vrwtutor">
     <img src="https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&style=for-the-badge">
+  </a>
+  <a href="https://gravatar.com/vrwtutor">
+    <img src="https://img.shields.io/badge/Gravatar-Visit-blue?logo=gravatar&logoColor=white&style=for-the-badge">
   </a>
 </p>
 
