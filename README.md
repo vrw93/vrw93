@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm VRW</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+VRW;Unity+Game+Developer;Building+Games+%F0%9F%8E%AE;Learning+C%23+%26+Python">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+VRW;Unity+Game+Developer;Building+Games+%F0%9F%8E%AE;Learning+C%23+%26+Python">
 </p>
 <p align="center">
 🎮 Unity Developer passionate about building games and exploring game modding.
@@ -31,7 +31,7 @@
 
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&width=600&lines=Inventory+App;VTab;More+Poster(MWC);VrwPack(MWC)">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&color=FFFFFF&center=true&vCenter=true&width=600&lines=Inventory+App;VTab;More+Poster(MWC);VrwPack(MWC)">
 </p>
 
 ---
