@@ -10,11 +10,11 @@
 ## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Engine-Unity-black?logo=unity">
-  <img src="https://img.shields.io/badge/Language-C%23-green?logo=dotnet">
-  <img src="https://img.shields.io/badge/Language-Python-blue?logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Editor-VSCode-blue">
-  <img src="https://img.shields.io/badge/IDE-VisualStudio-purple">
+  <img src="https://img.shields.io/badge/Engine-Unity-black?logo=unity&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Language-C%23-green?logo=dotnet&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Language-Python-blue?logo=python&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Editor-VSCode-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/IDE-VisualStudio-purple?style=for-the-badge">
 </p>
 
 ---
