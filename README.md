@@ -21,7 +21,10 @@
 ## 📊 GitHub Stats
 <p align="center">
   
-  ![Stats](https://github-readme-stats-git-master-vrws-projects.vercel.app/api?username=vrw93&show_icons=true&theme=tokyonight)
+  [![Stats](https://github-stats-extended.vercel.app/api?username=vrw93&show_icons=true&theme=tokyonight)](https://vrwtutor.kesug.com)
+
+  
+  ![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=vrw93&langs_count=4&theme=tokyonight)
   
 </p>
 
